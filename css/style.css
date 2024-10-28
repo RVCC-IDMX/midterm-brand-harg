@@ -88,6 +88,11 @@ h6 {
     padding: 100px;
 }
 
+.container p {
+    border-top: solid #e08700;
+    padding: 20px;
+}
+
 .title {
     margin-top: -30px;
 }
